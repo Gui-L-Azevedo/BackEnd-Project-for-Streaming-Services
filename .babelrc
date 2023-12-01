@@ -1,0 +1,13 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@": "/home/guilherme/Desktop/myProject/src/uploads/images"
+        }
+      }
+    ]
+  ]
+}
