@@ -1,6 +1,6 @@
-# BackEnd Project
+# NodeExpressBasicCRUDProject
 
-Hi! This is my project regarding the 2023 CompJR's selective process, it is intended to be a movie/shows database, as in the regular user (if logged-in) can only access data, but not alter or delete it, unlike admins that have full access to all routes. In this project I used a dataset that contained all movies and TV shows from Disney, then I altered the dataset slightly to fit my purposes, and also of course the original and modified versions will be linked below.
+This is my project regarding the 2023 CompJR's selective process, it is intended to be a movie/shows database, as in the regular user (if logged-in) can only access data, but not alter or delete it, unlike admins that have full access to all routes. In this project I used a dataset that contained all movies and TV shows from Disney, then I altered the dataset slightly to fit my purposes, and also of course the original and modified versions will be linked below.
 
 ## Table of Contents
 
